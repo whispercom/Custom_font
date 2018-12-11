@@ -1,0 +1,14 @@
+@font-face {font-family: 'webfont';
+    src: url('./webfont_o00nq03ley/webfont.eot'); /* IE9*/
+    src: url('./webfont_o00nq03ley/webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./webfont_o00nq03ley/webfont.woff') format('woff'), /* chrome、firefox */
+    url('./webfont_o00nq03ley/webfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('./webfont_o00nq03ley/webfont.svg#webfont') format('svg'); /* iOS 4.1- */
+}
+@font-face {font-family: 'webfont2';
+    src: url('./webfont_w2towocoo4f/webfont.eot'); /* IE9*/
+    src: url('./webfont_w2towocoo4f/webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./webfont_w2towocoo4f/webfont.woff') format('woff'), /* chrome、firefox */
+    url('./webfont_w2towocoo4f/webfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('./webfont_w2towocoo4f/webfont.svg#webfont') format('svg'); /* iOS 4.1- */
+}
